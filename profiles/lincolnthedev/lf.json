@@ -9,14 +9,29 @@
   ],
   "providers": {
     "accounts": {
+      "gitlab": {
+        "name": "Gitlab",
+        "username": "@lncn",
+        "link": "https://gitlab.com/lncn"
+      },
+      "github": {
+        "name": "Github",
+        "username": "@lincolnthedev",
+        "link": "https://github.com/lincolnthedev"
+      },
       "discord": {
         "name": "Discord",
-        "username": "lincolnthedev#0001"
+        "username": "@lincolnthedev#0001"
       },
       "twitter": {
         "name": "Twitter",
-        "username": "lincolnthedev",
-        "link": "https://twitter.com"
+        "username": "@lincolnthedev",
+        "link": "https://twitter.com/lincolnthedev"
+      },
+      "reddit": {
+        "name": "Reddit",
+        "username": "u/lincolnthedev",
+        "link": "https://reddit.com/u/lincolnthedev"
       }
     },
     "pronouns": {
