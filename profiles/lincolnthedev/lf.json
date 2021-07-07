@@ -1,17 +1,17 @@
 {
   "name": "Lincoln W",
   "job-title": "PHP Web Dev",
-  "providers": [
-    "accounts": [
-      {
+  "providers": {
+    "accounts": {
+      "discord": {
         "name": "Discord",
-        "username": "lincolnthedev#0001",
+        "username": "lincolnthedev#0001"
       },
-      {
+      "twitter": {
         "name": "Twitter",
         "username": "lincolnthedev",
         "link": "https://twitter.com"
       }
-    ]
-  ]
+    }
+  }
 }
