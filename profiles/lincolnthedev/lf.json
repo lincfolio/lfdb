@@ -5,7 +5,8 @@
     "aboutme",
     "accounts",
     "pronouns",
-    "games"
+    "games",
+    "hobbies"
   ],
   "providers": {
     "accounts": {
@@ -61,6 +62,13 @@
       "ddlc": {
         "game": "DDLC"
       }
+    },
+    "hobbies": {
+      "name": [
+        "Programming",
+        "Reading a good book",
+        "Playing with my cat"
+      ]
     }
   }
 }
