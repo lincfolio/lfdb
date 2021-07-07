@@ -4,7 +4,8 @@
   "include": [
     "aboutme",
     "accounts",
-    "pronouns"
+    "pronouns",
+    "games"
   ],
   "providers": {
     "accounts": {
@@ -34,6 +35,17 @@
     },
     "aboutme": {
       "txt": "I am a 13 year old developer based in the eastern US. I love anything open source, hate everything proprietary, and like to watch anime."
+    },
+    "games": {
+      "minecraft": {
+        "game": "Minecraft"
+      },
+      "celeste": {
+        "game": "Celeste"
+      },
+      "ddlc": {
+        "game": "DDLC"
+      }
     }
   }
 }
