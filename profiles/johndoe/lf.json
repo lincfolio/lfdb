@@ -1,6 +1,11 @@
 {
   "name": "John Doe",
   "job-title": "Ethical Hacker",
+  "include": [
+    "accounts",
+    "pronouns",
+    "aboutme"
+  ],
   "providers": {
     "accounts": {
       "discord": {

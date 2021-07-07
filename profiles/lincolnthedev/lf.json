@@ -1,6 +1,11 @@
 {
   "name": "Lincoln W",
   "job-title": "PHP Web Dev",
+  "include": [
+    "accounts",
+    "pronouns",
+    "aboutme"
+  ],
   "providers": {
     "accounts": {
       "discord": {
