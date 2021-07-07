@@ -12,6 +12,20 @@
         "username": "lincolnthedev",
         "link": "https://twitter.com"
       }
+    },
+    "pronouns": {
+      "hehim": {
+        "pronoun": "He/Him",
+        "status": "Yes"
+      },
+      "theythem": {
+        "pronoun": "They/Them",
+        "status": "OK"
+      },
+      "sheher": {
+        "pronoun": "She/Her",
+        "status": "No"
+      }
     }
   }
 }
