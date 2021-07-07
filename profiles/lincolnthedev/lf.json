@@ -2,9 +2,9 @@
   "name": "Lincoln W",
   "job-title": "PHP Web Dev",
   "include": [
+    "aboutme",
     "accounts",
-    "pronouns",
-    "aboutme"
+    "pronouns"
   ],
   "providers": {
     "accounts": {
