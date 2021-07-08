@@ -69,6 +69,13 @@
         "Reading a good book",
         "Playing with my cat"
       ]
+    },
+    "distroinfo": {
+      "os": "Linux 64-bit",
+      "distro": "Mint",
+      "wmde": "dwm w/ slstatus",
+      "terminal": "st",
+      "browser": "surf & Firefox"
     }
   }
 }
