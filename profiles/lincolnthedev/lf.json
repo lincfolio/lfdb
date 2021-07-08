@@ -6,7 +6,8 @@
     "accounts",
     "pronouns",
     "games",
-    "hobbies"
+    "hobbies",
+    "distroinfo"
   ],
   "providers": {
     "accounts": {
